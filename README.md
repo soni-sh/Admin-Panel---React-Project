@@ -6,7 +6,7 @@ Welcome to **Admin Panel**, a sleek and responsive dashboard interface built usi
 
 ## 🚀 Live Demo
 
-🌐 **Live Website**: [Admin Panel on Netlify](https://your-netlify-link.netlify.app/)  
+🌐 **Live Website**: [Click here to visit now](https://admin-panel-seven-soni-sah.netlify.app/)  
 📦 **GitHub Repository**: [View Code on GitHub](https://github.com/soni-sh/Admin-Panel---React-Project)
 
 ---
